@@ -2,7 +2,7 @@
 
 1. git clone https://github.com/Mars687p/russian-english-dictionary  
 1. cd russian-english-dictionary  
-1. pythom -m venv env && source env/bin/activate  
+1. python -m venv env && source env/bin/activate  
 1. cp example.env .env  
 1. Insert your telegram token to .env file  
 1. source .env  
