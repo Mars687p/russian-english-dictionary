@@ -1,0 +1,2 @@
+tortoise-orm==0.16.13
+aiogram==2.9.2
