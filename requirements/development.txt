@@ -1,2 +1,2 @@
 -r base.txt
-ipython==7.16.1
+ipython==7.16.3
